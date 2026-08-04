@@ -13,8 +13,8 @@ page-layout: full
 
 ::: {.perfil-info}
 
-# Nombre Apellido
-
+# Juan Pablo Hernández Vásquez
+}
 ## Estudiante de Bachillerato en Biología Tropical
 
 Escuela de Ciencias Biológicas  
