@@ -5,9 +5,10 @@ page-layout: full
 
 ::::: hero-portada
 ::: hero-texto
-# Nombre Apellido
+# Juan Pablo Hernández Vásquez
 
 ## Estudiante de Bachillerato en Biología
+Graduado en Enseñanza de las Ciencias Naturales - UNA
 
 Escuela de Ciencias Biológicas\
 Universidad Nacional, Costa Rica
@@ -35,7 +36,7 @@ Este portafolio utiliza herramientas de ciencia reproducible como **R**, **Quart
 ::: tarjeta-inicio
 ### Perfil
 
-Información personal, intereses académicos y experiencia.
+Estudiante de Biología enfocado en el estudio de la aracnología, con interés en la taxonomía, ecología y conservación de arañas.
 
 [Ir al perfil →](about.qmd)
 :::
@@ -70,4 +71,4 @@ Este portafolio fue desarrollado con herramientas de ciencia reproducible.
 :::
 
 
-**Última actualización:** Agosto 2026
+**Última actualización:** 4 de Agosto 2026

@@ -1,12 +1,12 @@
 ---
-title: "Práctica (ejemplo)"
+title: "Práctica 1. Creación de sitio web"
 format: html
 editor: visual
 ---
 
 ## Objetivo
 
-Describa brevemente qué se pretende aprender o realizar en la práctica.
+Creación de un sitio web personalizado
 
 ## Materiales y herramientas
 
@@ -17,15 +17,59 @@ Describa brevemente qué se pretende aprender o realizar en la práctica.
 
 ## Procedimiento
 
-Explique de forma ordenada los pasos realizados durante la práctica.
+- Paso 1. Crear un repositorio a partir del Template Repository
+
+<!-- -->
+
+-  Paso 2. Clonar el repositorio en RStudio
+
+<!-- -->
+
+-  Paso 3. Explorar la estructura del proyecto
+
+<!-- -->
+
+-  Paso 4. Renderizar el sitio web por primera vez
+
+<!-- -->
+
+-  Paso 5. Explorar el sitio web
+
+<!-- -->
+
+-  Paso 6. Personalizar las imágenes del portafolio
+
+<!-- -->
+
+-  Paso 7. Personalizar el perfil profesional
+
+<!-- -->
+
+-  Paso 8. Personalizar la portada
+
+<!-- -->
+
+-  Paso 9. Explorar la organización del portafolio
+
+<!-- -->
+
+-  Paso 10. Configurar GitHub Pages
+
+<!-- -->
+
+-  Paso 11. Guardar y enviar los cambios desde la pestaña Git de RStudio
+
+<!-- -->
+
+-  Paso 12. Abrir y verificar el sitio publicado
 
 ## Resultados
 
-Incluya aquí los principales resultados obtenidos.
+Creación exitosa del sitio web
 
 ## Figuras y tablas
 
-Agregue las figuras, tablas o capturas de pantalla necesarias para documentar el trabajo.
+Agregue las figuras,t ablas o capturas de pantalla necesarias para documentar el trabajo.
 
 ## Reflexión final
 
