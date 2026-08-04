@@ -69,7 +69,7 @@ Creación exitosa del sitio web
 
 ## Figuras y tablas
 
-![Figura 1. Imagen del sitio web personalizado](images/prueba 1.png)Agregue las figuras,t ablas o capturas de pantalla necesarias para documentar el trabajo.
+![Figura 1. Imagen del sitio web personalizado](images/prueba 1.png)Figura 1. Comprobacion desitio web
 
 ## Reflexión final
 
