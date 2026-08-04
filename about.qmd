@@ -14,7 +14,7 @@ page-layout: full
 ::: {.perfil-info}
 
 # Juan Pablo Hernández Vásquez
-}
+
 ## Estudiante de Bachillerato en Biología Tropical
 
 Escuela de Ciencias Biológicas  
