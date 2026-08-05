@@ -84,7 +84,7 @@ Pasos para cargar actualizaciones:
 1.  Guardar cambio
 2.  Presionar Render en la pestaña
 3.  Utilizar en la consola el siguiente código: quarto::quarto_render()
-4.  Ir a la sección de Git, hacer staged en cada archivo disponible, seleccionar commit, nombrar el cambio, commit y pull
+4.  Ir a la sección de Git, hacer staged en cada archivo disponible, seleccionar commit, nombrar el cambio, commit y push
 
 - ¿Qué dificultad encontré?
 
