@@ -13,10 +13,6 @@ Cada práctica constituye una evidencia del aprendizaje adquirido durante el sem
 ## Prácticas de laboratorio
 
 ::: portfolio-item
-### 
-:::
-
-::: portfolio-item
 ### 📚 Manejo de datos con Tidyverse
 
 En esta practica se documentara la importacion y el manejo de datos con el paquete Tidyverse.
