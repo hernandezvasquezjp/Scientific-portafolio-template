@@ -20,6 +20,7 @@ En esta practica se documentara la importacion y el manejo de datos con el paque
 [Ver práctica →](tidy.qmd)
 :::
 
+
 ::: portfolio-item
 ### 📚 Gestión de referencias bibliográficas con Zotero
 
@@ -33,7 +34,7 @@ En esta práctica se documentará la creación de una biblioteca bibliográfica 
 
 En esta práctica se agrupa la sección denominada: descarga de ocurrencias desde Gbif y iNaturalist
 
-Y a su vez el uso de los datos obtenidos y la organizacion de la misma en el modelado de la distribucion espacial.
+Y a su vez el uso de los datos obtenidos y la organizacion de la misma en el distribucion espacial,
 
 [Ver práctica →](organizacion.qmd)
 :::
@@ -65,7 +66,8 @@ En esta práctica se trabajo con índices de diversidad evaluando un set de dato
 ::: portfolio-item
 ### 📄 GiraI
 
-En esta práctia se trabajo con un set de datos correspondientes a la práctica de campo número I. [Ver práctica →](GiraI.qmd)
+En esta práctia se trabajo con un set de datos correspondientes a la práctica de campo número I.
+[Ver práctica →](GiraI.qmd)
 :::
 
 ::: portfolio-item
