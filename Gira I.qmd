@@ -1,0 +1,19 @@
+---
+title: "Template"
+author: "Pablo Hernandez"
+editor: visual
+---
+
+## Introducción
+
+## Objetivo
+
+## Metodología
+
+## Resultados
+
+## Interpretación
+
+## Conclusiones
+
+## Referencias

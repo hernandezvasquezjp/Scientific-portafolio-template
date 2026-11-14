@@ -1,0 +1,19 @@
+---
+title: "Descarga de ocurrencias desde iNaturalist y Gbif con Rstudio "
+author: "Pablo Hernandez"
+editor: visual
+---
+
+## Introducción
+
+## Objetivo
+
+## Metodología
+
+## Resultados
+
+## Interpretación
+
+## Conclusiones
+
+## Referencias

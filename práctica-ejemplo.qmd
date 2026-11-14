@@ -21,47 +21,47 @@ Creación de un sitio web personalizado
 
 <!-- -->
 
--  Paso 2. Clonar el repositorio en RStudio
+- Paso 2. Clonar el repositorio en RStudio
 
 <!-- -->
 
--  Paso 3. Explorar la estructura del proyecto
+- Paso 3. Explorar la estructura del proyecto
 
 <!-- -->
 
--  Paso 4. Renderizar el sitio web por primera vez
+- Paso 4. Renderizar el sitio web por primera vez
 
 <!-- -->
 
--  Paso 5. Explorar el sitio web
+- Paso 5. Explorar el sitio web
 
 <!-- -->
 
--  Paso 6. Personalizar las imágenes del portafolio
+- Paso 6. Personalizar las imágenes del portafolio
 
 <!-- -->
 
--  Paso 7. Personalizar el perfil profesional
+- Paso 7. Personalizar el perfil profesional
 
 <!-- -->
 
--  Paso 8. Personalizar la portada
+- Paso 8. Personalizar la portada
 
 <!-- -->
 
--  Paso 9. Explorar la organización del portafolio
+- Paso 9. Explorar la organización del portafolio
 
 <!-- -->
 
--  Paso 10. Configurar GitHub Pages
+- Paso 10. Configurar GitHub Pages
 
 <!-- -->
 
--  Paso 11. Guardar y enviar los cambios desde la pestaña Git de RStudio
+- Paso 11. Guardar y enviar los cambios desde la pestaña Git de RStudio
 
 <!-- -->
 
--  Paso 12. Abrir y verificar el sitio publicado
+- Paso 12. Abrir y verificar el sitio publicado
 
 ## Resultados
 
@@ -69,7 +69,7 @@ Creación exitosa del sitio web
 
 ## Figuras y tablas
 
-![Figura 1. Imagen del sitio web personalizado](images/prueba 1.png)Figura 1. Comprobacion desitio web
+![Figura 1. Imagen del sitio web personalizado](images/prueba%201.png)Figura 1. Comprobacion desitio web
 
 ## Reflexión final
 

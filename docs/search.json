@@ -81,7 +81,7 @@
     "href": "index.html#herramientas-y-afiliación",
     "title": "Inicio",
     "section": "Herramientas y afiliación",
-    "text": "Herramientas y afiliación\nEste portafolio fue desarrollado con herramientas de ciencia reproducible.\n\n\n\n\n\nÚltima actualización: 4 de Agosto 2026"
+    "text": "Herramientas y afiliación\nEste portafolio fue desarrollado con herramientas de ciencia reproducible.\n\n\n\n\n\nÚltima actualización: 28 de Octubre 2026"
   },
   {
     "objectID": "about.html",
@@ -137,7 +137,7 @@
     "href": "portfolio.html#prácticas-de-laboratorio",
     "title": "Portafolio académico",
     "section": "Prácticas de laboratorio",
-    "text": "Prácticas de laboratorio\n\n📄 Práctica de ejemplo\nIntroducción al uso del portafolio digital académico y documentación de una práctica mediante Quarto.\nVer práctica →\n\n\n📚 Gestión de referencias bibliográficas con Zotero\nEn esta práctica se documentará la creación de una biblioteca bibliográfica utilizando Zotero y su integración con Microsoft Word.\nVer práctica →"
+    "text": "Prácticas de laboratorio\n\n📄 Práctica de ejemplo\nIntroducción al uso del portafolio digital académico y documentación de una práctica mediante Quarto.\nVer práctica →\n\n\n📄 Manejo de datos con Tidyverse\nEn esta pr[actica se documentar[a la importaci[on y el manejo de datos con el paquete Tidyverse]]]\nVer práctica →\n\n\n📚 Gestión de referencias bibliográficas con Zotero\nEn esta práctica se documentará la creación de una biblioteca bibliográfica utilizando Zotero y su integración con Microsoft Word.\nVer práctica →"
   },
   {
     "objectID": "portfolio.html#objetivo-del-portafolio",
@@ -227,6 +227,76 @@
     "objectID": "Plantill (Template).html#referencias",
     "href": "Plantill (Template).html#referencias",
     "title": "Template",
+    "section": "Referencias",
+    "text": "Referencias"
+  },
+  {
+    "objectID": "Practica Tidyverse.html",
+    "href": "Practica Tidyverse.html",
+    "title": "tidy",
+    "section": "",
+    "text": "Introducción \nEn esta práctica se utilizó el paquete Tidyverse en R para realizar el proceso de importación de datos, así como la limpieza, manipulación y visualización de datos. El juego de datos del estudió consistió. de una serie de observaciones de mamíferos africanos que se encontraba desordenado o que carecía de formato.\nObjetivo \nEl objetivo de esta práctica fue importar, ordenar y visualizar un juego de datos de mamíferos africanos utilizando Tidyverse que es una colección de paquetes de R diseñados para la ciencia de datos que comparten una filosofía, gramática y estructura de datos común.\nSe importó un juego de datos y se realizó una manipulación de datos con Tidyverse que incluyó el resumen de datos, cambio de formato de fecha, unión y separación de columnas, y un gráfico para visualizar la abundancia relativa de observaciones.\nMetodología \nSe importo un juego de datos y se realizo una manioulación de datos con Tidyverse que invluyo el resumen de datos, cambios de formato de fecha, unión y separación de columnas y un gráfico para visualizar la abundancia relativa de observaciones.\nResultados \nSe encontraron un total de 26 especies. La especie más abundante fue el hipopótamo, Hipnenetemus emphibius con 28 observaciones, seguido del antílope de leche, Kobus leche, con 22 observaciones (Figura 1).\nFigura 1. XXXX\nConclusiones \nEn este ejercicio aprendí las bases de la importación y manejo de datos en Tidyverse; sin embargo, se necesita mucha más práctica para dominar la gran cantidad de funciones que se incluyen en este conjunto de paquetes. La versatilidad que ofrece el universo de paquetes de Tidyverse permite utilizar este proceso en cualquier tipo de juego de datos, por lo que es una herramienta muy valiosa para los ecólogos."
+  },
+  {
+    "objectID": "Practica Tidyverse.html#práctica-2.-manejo-de-datos-con-tidyverse",
+    "href": "Practica Tidyverse.html#práctica-2.-manejo-de-datos-con-tidyverse",
+    "title": "tidy",
+    "section": "",
+    "text": "Introducción \nEn esta práctica se utilizó el paquete Tidyverse en R para realizar el proceso de importación de datos, así como la limpieza, manipulación y visualización de datos. El juego de datos del estudió consistió. de una serie de observaciones de mamíferos africanos que se encontraba desordenado o que carecía de formato.\nObjetivo \nEl objetivo de esta práctica fue importar, ordenar y visualizar un juego de datos de mamíferos africanos utilizando Tidyverse que es una colección de paquetes de R diseñados para la ciencia de datos que comparten una filosofía, gramática y estructura de datos común.\nSe importó un juego de datos y se realizó una manipulación de datos con Tidyverse que incluyó el resumen de datos, cambio de formato de fecha, unión y separación de columnas, y un gráfico para visualizar la abundancia relativa de observaciones.\nMetodología \nSe importo un juego de datos y se realizo una manioulación de datos con Tidyverse que invluyo el resumen de datos, cambios de formato de fecha, unión y separación de columnas y un gráfico para visualizar la abundancia relativa de observaciones.\nResultados \nSe encontraron un total de 26 especies. La especie más abundante fue el hipopótamo, Hipnenetemus emphibius con 28 observaciones, seguido del antílope de leche, Kobus leche, con 22 observaciones (Figura 1).\nFigura 1. XXXX\nConclusiones \nEn este ejercicio aprendí las bases de la importación y manejo de datos en Tidyverse; sin embargo, se necesita mucha más práctica para dominar la gran cantidad de funciones que se incluyen en este conjunto de paquetes. La versatilidad que ofrece el universo de paquetes de Tidyverse permite utilizar este proceso en cualquier tipo de juego de datos, por lo que es una herramienta muy valiosa para los ecólogos."
+  },
+  {
+    "objectID": "tidy.html",
+    "href": "tidy.html",
+    "title": "tidy",
+    "section": "",
+    "text": "Introducción \nEn esta práctica se utilizó el paquete Tidyverse en R para realizar el proceso de importación de datos, así como la limpieza, manipulación y visualización de datos. El juego de datos del estudió consistió. de una serie de observaciones de mamíferos africanos que se encontraba desordenado o que carecía de formato.\nObjetivo \nEl objetivo de esta práctica fue importar, ordenar y visualizar un juego de datos de mamíferos africanos utilizando Tidyverse que es una colección de paquetes de R diseñados para la ciencia de datos que comparten una filosofía, gramática y estructura de datos común.\nSe importó un juego de datos y se realizó una manipulación de datos con Tidyverse que incluyó el resumen de datos, cambio de formato de fecha, unión y separación de columnas, y un gráfico para visualizar la abundancia relativa de observaciones.\nMetodología \nSe importo un juego de datos y se realizo una manioulación de datos con Tidyverse que invluyo el resumen de datos, cambios de formato de fecha, unión y separación de columnas y un gráfico para visualizar la abundancia relativa de observaciones.\nResultados \nSe encontraron un total de 26 especies. La especie más abundante fue el hipopótamo, Hipnenetemus emphibius con 28 observaciones, seguido del antílope de leche, Kobus leche, con 22 observaciones (Figura 1).\nFigura 1. XXXX\nConclusiones \nEn este ejercicio aprendí las bases de la importación y manejo de datos en Tidyverse; sin embargo, se necesita mucha más práctica para dominar la gran cantidad de funciones que se incluyen en este conjunto de paquetes. La versatilidad que ofrece el universo de paquetes de Tidyverse permite utilizar este proceso en cualquier tipo de juego de datos, por lo que es una herramienta muy valiosa para los ecólogos."
+  },
+  {
+    "objectID": "tidy.html#práctica-2.-manejo-de-datos-con-tidyverse",
+    "href": "tidy.html#práctica-2.-manejo-de-datos-con-tidyverse",
+    "title": "tidy",
+    "section": "",
+    "text": "Introducción \nEn esta práctica se utilizó el paquete Tidyverse en R para realizar el proceso de importación de datos, así como la limpieza, manipulación y visualización de datos. El juego de datos del estudió consistió. de una serie de observaciones de mamíferos africanos que se encontraba desordenado o que carecía de formato.\nObjetivo \nEl objetivo de esta práctica fue importar, ordenar y visualizar un juego de datos de mamíferos africanos utilizando Tidyverse que es una colección de paquetes de R diseñados para la ciencia de datos que comparten una filosofía, gramática y estructura de datos común.\nSe importó un juego de datos y se realizó una manipulación de datos con Tidyverse que incluyó el resumen de datos, cambio de formato de fecha, unión y separación de columnas, y un gráfico para visualizar la abundancia relativa de observaciones.\nMetodología \nSe importo un juego de datos y se realizo una manioulación de datos con Tidyverse que invluyo el resumen de datos, cambios de formato de fecha, unión y separación de columnas y un gráfico para visualizar la abundancia relativa de observaciones.\nResultados \nSe encontraron un total de 26 especies. La especie más abundante fue el hipopótamo, Hipnenetemus emphibius con 28 observaciones, seguido del antílope de leche, Kobus leche, con 22 observaciones (Figura 1).\nFigura 1. XXXX\nConclusiones \nEn este ejercicio aprendí las bases de la importación y manejo de datos en Tidyverse; sin embargo, se necesita mucha más práctica para dominar la gran cantidad de funciones que se incluyen en este conjunto de paquetes. La versatilidad que ofrece el universo de paquetes de Tidyverse permite utilizar este proceso en cualquier tipo de juego de datos, por lo que es una herramienta muy valiosa para los ecólogos."
+  },
+  {
+    "objectID": "ocurrencias.html#objetivo",
+    "href": "ocurrencias.html#objetivo",
+    "title": "Descarga de ocurrencias desde iNaturalist y Gbif con Rstudio",
+    "section": "Objetivo",
+    "text": "Objetivo"
+  },
+  {
+    "objectID": "ocurrencias.html#metodología",
+    "href": "ocurrencias.html#metodología",
+    "title": "Descarga de ocurrencias desde iNaturalist y Gbif con Rstudio",
+    "section": "Metodología",
+    "text": "Metodología"
+  },
+  {
+    "objectID": "ocurrencias.html#resultados",
+    "href": "ocurrencias.html#resultados",
+    "title": "Descarga de ocurrencias desde iNaturalist y Gbif con Rstudio",
+    "section": "Resultados",
+    "text": "Resultados"
+  },
+  {
+    "objectID": "ocurrencias.html#interpretación",
+    "href": "ocurrencias.html#interpretación",
+    "title": "Descarga de ocurrencias desde iNaturalist y Gbif con Rstudio",
+    "section": "Interpretación",
+    "text": "Interpretación"
+  },
+  {
+    "objectID": "ocurrencias.html#conclusiones",
+    "href": "ocurrencias.html#conclusiones",
+    "title": "Descarga de ocurrencias desde iNaturalist y Gbif con Rstudio",
+    "section": "Conclusiones",
+    "text": "Conclusiones"
+  },
+  {
+    "objectID": "ocurrencias.html#referencias",
+    "href": "ocurrencias.html#referencias",
+    "title": "Descarga de ocurrencias desde iNaturalist y Gbif con Rstudio",
     "section": "Referencias",
     "text": "Referencias"
   }
