@@ -13,13 +13,16 @@ Cada práctica constituye una evidencia del aprendizaje adquirido durante el sem
 ## Prácticas de laboratorio
 
 ::: portfolio-item
-### 📄 Manejo de datos con Tidyverse
+### 
+:::
+
+::: portfolio-item
+### 📚 Manejo de datos con Tidyverse
 
 En esta practica se documentara la importacion y el manejo de datos con el paquete Tidyverse.
 
 [Ver práctica →](tidy.qmd)
 :::
-
 
 ::: portfolio-item
 ### 📚 Gestión de referencias bibliográficas con Zotero
@@ -30,17 +33,17 @@ En esta práctica se documentará la creación de una biblioteca bibliográfica 
 :::
 
 ::: portfolio-item
-### 📄 organizacion
+### 📚 Descarga de ocurrencias y organización de los datos
 
 En esta práctica se agrupa la sección denominada: descarga de ocurrencias desde Gbif y iNaturalist
 
-Y a su vez el uso de los datos obtenidos y la organizacion de la misma en el distribucion espacial,
+Y a su vez el uso de los datos obtenidos y la organizacion de la misma en el modelado de la distribucion espacial.
 
 [Ver práctica →](organizacion.qmd)
 :::
 
 ::: portfolio-item
-### 📄 bidimencional
+### 📚 Nicho bidimensional
 
 En esta práctica se trabajo el modelado de nicho bidimensional y especial enfasis en el contraste de capas ambientales
 
@@ -48,7 +51,7 @@ En esta práctica se trabajo el modelado de nicho bidimensional y especial enfas
 :::
 
 ::: portfolio-item
-### 📄 kde
+### 📚 Densidad de Kernel (Kde) y análisis de datos
 
 En esta práctica se llevo a cabo la estimación de densidad kernel (KDE) y análisis de suavizado espacial
 
@@ -56,7 +59,7 @@ En esta práctica se llevo a cabo la estimación de densidad kernel (KDE) y aná
 :::
 
 ::: portfolio-item
-### 📄 diversidad
+### 📚 Índices de diversidad
 
 En esta práctica se trabajo con índices de diversidad evaluando un set de datos de diferentes especies de plantas en una serie de ecorregiones.
 
@@ -64,14 +67,13 @@ En esta práctica se trabajo con índices de diversidad evaluando un set de dato
 :::
 
 ::: portfolio-item
-### 📄 GiraI
+### 📚 Gira I
 
-En esta práctia se trabajo con un set de datos correspondientes a la práctica de campo número I.
-[Ver práctica →](GiraI.qmd)
+En esta práctia se trabajo con un set de datos correspondientes a la práctica de campo número I. [Ver práctica →](GiraI.qmd)
 :::
 
 ::: portfolio-item
-### 📄 GiraII
+### 📚 Gira II
 
 En esta práctia se trabajo con un set de datos correspondientes a la práctica de campo número II.
 

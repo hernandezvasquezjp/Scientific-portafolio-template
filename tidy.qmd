@@ -24,7 +24,7 @@ Se importo un juego de datos y se realizo una manioulación de datos con Tidyver
 
 Se encontraron un total de 26 especies. La especie más abundante fue el hipopótamo, Hipnenetemus emphibius con 28 observaciones, seguido del antílope de leche, Kobus leche, con 22 observaciones (Figura 1).
 
-![](images/Screenshot 2026-11-13 230430.png)
+![](images/Screenshot%202026-11-13%20230430.png)
 
 Figura 1. Set de datos organizado según el número de observaciones y especies
 

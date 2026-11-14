@@ -4,8 +4,10 @@ author: "Pablo Hernandez"
 editor: visual
 ---
 
-## En la tercera práctica dimos un paso más allá en el análisis ecológico de *Latrodectus geometricus*, trabajando con el concepto de nicho bidimensional. El objetivo fue evaluar qué factores del ambiente influyen en la presencia de esta araña. Para lograrlo, tomamos nuestra base de datos ya limpia y la cruzamos con distintas capas ambientales, específicamente temperatura, altura, lluvias y huella humana (*human footprint*). Al generar estos mapas de contraste, pudimos observar visualmente en qué rangos climáticos se ubica mejor la especie y qué tanto se asocia con zonas modificadas por el ser humano. En esta práctica aprendí a superponer registros biológicos con variables climáticas y antrópicas, comprendiendo cómo factores como la temperatura o la urbanización moldean el espacio donde habita una especie.
+# Práctica de nicho bidimensional
 
-![](images/L geometricus 22-09-26- nicho bidimensional/latrodectus_geometricus_elevation.jpg)
+En la tercera práctica dimos un paso más allá en el análisis ecológico de *Latrodectus geometricus*, trabajando con el concepto de nicho bidimensional. El objetivo fue evaluar qué factores del ambiente influyen en la presencia de esta araña. Para lograrlo, tomamos nuestra base de datos ya limpia y la cruzamos con distintas capas ambientales, específicamente temperatura, altura, lluvias y huella humana (*human footprint*). Al generar estos mapas de contraste, pudimos observar visualmente en qué rangos climáticos se ubica mejor la especie y qué tanto se asocia con zonas modificadas por el ser humano. En esta práctica aprendí a superponer registros biológicos con variables climáticas y antrópicas, comprendiendo cómo factores como la temperatura o la urbanización moldean el espacio donde habita una especie.
+
+![](images/L%20geometricus%2022-09-26-%20nicho%20bidimensional/latrodectus_geometricus_elevation.jpg)
 
 Fig 1. Evidencia de la práctica sobre Nicho Bidimensional

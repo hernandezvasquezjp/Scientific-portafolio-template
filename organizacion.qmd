@@ -4,14 +4,16 @@ author: "Pablo Hernandez"
 editor: visual
 ---
 
-## En la figura 2 es posible observar la imagén de evidencia de la descarga de ocurrencias de las platafrmas Gbif y iNaturalist para la especie seleccionada, dicho set de datos se curo y fueron necesarios para la segunda práctica.
+# Práctica descarga de ocurrencias y manejo de datos
 
-## En esta segunda práctica (fugura 1) nos enfocamos en revisar a fondo y darle un orden lógico a los datos de *Latrodectus geometricus* que ya habíamos descargado. El objetivo principal fue estructurar correctamente toda la información geográfica para poder administrar y analizar la distribución real de la especie. Como parte del procedimiento, verificamos que las tablas y las coordenadas estuvieran bien alineadas, organizando los registros por áreas geográficas para entender dónde se concentra la araña y dónde faltan datos. Al discutir los resultados, notamos que muchos registros responden a lugares donde hay más personas observando y no necesariamente a toda el área donde vive la especie. En esta práctica aprendí cómo ordenar, revisar y administrar información geoespacial de manera sistemática para representar correctamente la distribución de un organismo.
+En la figura 2 es posible observar la imagén de evidencia de la descarga de ocurrencias de las platafrmas Gbif y iNaturalist para la especie seleccionada, dicho set de datos se curo y fueron necesarios para la segunda práctica.
 
-![](images/L geometricus 22-09-26/latrodectus_geometricus_provincias.jpg)
+En esta segunda práctica (fugura 1) nos enfocamos en revisar a fondo y darle un orden lógico a los datos de *Latrodectus geometricus* que ya habíamos descargado. El objetivo principal fue estructurar correctamente toda la información geográfica para poder administrar y analizar la distribución real de la especie. Como parte del procedimiento, verificamos que las tablas y las coordenadas estuvieran bien alineadas, organizando los registros por áreas geográficas para entender dónde se concentra la araña y dónde faltan datos. Al discutir los resultados, notamos que muchos registros responden a lugares donde hay más personas observando y no necesariamente a toda el área donde vive la especie. En esta práctica aprendí cómo ordenar, revisar y administrar información geoespacial de manera sistemática para representar correctamente la distribución de un organismo.
+
+![](images/L%20geometricus%2022-09-26/latrodectus_geometricus_provincias.jpg)
 
 Figura 1. Mapa de ocurrencias por provincias
 
-![](images/L geometricus 22-09-26/latrodectus_geometricus_occurrences.jpg)
+![](images/L%20geometricus%2022-09-26/latrodectus_geometricus_occurrences.jpg)
 
 Figura 2. Mapa de observaciones que separa en Gbif y iNaturalist.
